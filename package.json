@@ -1,0 +1,13 @@
+{
+  "name": "LearnWeb3-NFT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shubh",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
