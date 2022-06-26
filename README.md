@@ -13,3 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+ENV File
+ALCHEMY_API_KEY_URL="..."
+PRIVATE_KEY="...."
