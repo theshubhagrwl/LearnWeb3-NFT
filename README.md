@@ -17,3 +17,6 @@ npx hardhat help
 ENV File
 ALCHEMY_API_KEY_URL="..."
 PRIVATE_KEY="...."
+
+Deploying to the network
+npx hardhat run scripts/deploy.js --network rinkeby
